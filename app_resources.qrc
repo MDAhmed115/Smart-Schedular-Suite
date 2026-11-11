@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="logo.jpg">logo.jpg</file>
+        <file alias="favicon.ico">favicon.ico</file>
+    </qresource>
+</RCC>

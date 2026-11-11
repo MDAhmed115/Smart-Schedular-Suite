@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/assets">
+        <file>logo.jpg</file> <!-- Change logo.png to logo.jpg if needed -->
+        <file>favicon.ico</file>
+    </qresource>
+</RCC>

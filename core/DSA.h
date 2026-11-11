@@ -1,0 +1,11 @@
+#pragma once
+#include "core/ds/DynArray.h"
+#include "core/ds/LinkedList.h"
+#include "core/ds/Stack.h"
+#include "core/ds/Queue.h"
+#include "core/ds/MinHeap.h"
+#include "core/ds/HashTable.h"
+#include "core/ds/BinaryTree.h"
+#include "core/ds/Graph.h"
+#include "core/ds/BST.h"
+#include "core/algo/Sorting.h"

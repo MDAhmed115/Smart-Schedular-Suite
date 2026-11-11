@@ -1,0 +1,15 @@
+courseCode,courseName,section,day,start,end
+CS2001,Data Structures,A,Mon,08:30,10:00
+CS2001,Data Structures,A,Wed,08:30,10:00
+CS2001,Data Structures,B,Tue,10:00,11:30
+CS2001,Data Structures,B,Thu,10:00,11:30
+MT1003,Calculus,A,Mon,10:00,11:30
+MT1003,Calculus,A,Wed,10:00,11:30
+MT1003,Calculus,B,Tue,08:30,10:00
+MT1003,Calculus,B,Thu,08:30,10:00
+PH1001,Physics,A,Mon,11:30,13:00
+PH1001,Physics,B,Fri,09:00,12:00
+EN1002,English,A,Tue,13:00,14:30
+EN1002,English,B,Wed,13:00,14:30
+CS1004,Discrete Math,A,Thu,13:00,14:30
+CS1004,Discrete Math,B,Fri,13:00,14:30
