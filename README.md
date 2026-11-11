@@ -126,9 +126,9 @@ Built by students of **FAST-NUCES Karachi** for the Data Structures course (CS-2
 
 | Name | GitHub |
 |---|---|
-| Muhammed Ahmed Ashfaq | [@username](https://github.com/MDAhmed-115) |
+| Muhammed Ahmed Ashfaq | [@MDAhmed-115](https://github.com/MDAhmed-115) |
 | Fahad-ul-Islam | [@username](https://github.com/username) |
-| Moazamuddin | [@username](https://github.com/Moazamuddin12) |
+| Moazamuddin | [@Moazamuddin12](https://github.com/Moazamuddin12) |
 
 ---
 
