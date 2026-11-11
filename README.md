@@ -8,7 +8,7 @@
 
 *Built from scratch in C++ and Qt 6 with our own data structures, with no STL containers in the engine.*
 
-[![Download](sha256:9b63f934bbfe19692c910bcc1e27082533f8d86850a78187f8a3bb3b300150ff)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-DC2626?style=for-the-badge&logo=windows)](https://github.com/MDAhmed115/Smart-Schedular-Suite/releases/download/v1.0.0/SmartSchedulerSuite-v1.0.0-win64.zip)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-black?style=for-the-badge&logo=cplusplus)
 ![Qt](https://img.shields.io/badge/Qt-6-black?style=for-the-badge&logo=qt)
 ![Platform](https://img.shields.io/badge/Windows-10%2F11-black?style=for-the-badge&logo=windows)
@@ -126,7 +126,7 @@ Built by students of **FAST-NUCES Karachi** for the Data Structures course (CS-2
 
 | Name | GitHub |
 |---|---|
-| Muhammed Ahmed Ashfaq | [@username](https://github.com/MDAhmed115) |
+| Muhammed Ahmed Ashfaq | [@username](https://github.com/MDAhmed-115) |
 | Fahad-ul-Islam | [@username](https://github.com/username) |
 | Moazamuddin | [@username](https://github.com/Moazamuddin12) |
 
